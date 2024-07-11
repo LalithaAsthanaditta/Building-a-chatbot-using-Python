@@ -12,9 +12,9 @@ trainer.train('chatterbot.corpus.english')
 
 # Optionally, you can provide additional training data
 # trainer.train([
-#     'How are you?',
-#     'I am good.',
-#     'That is good to hear.',
+#     'Hi',
+#     'Hey! How's it going?',
+#     'Everything is good.',
 # ])
 
 # Get a response to a user input
